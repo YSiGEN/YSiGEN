@@ -14,5 +14,5 @@ Developing sensor technology for agricultural applications.
 ## Contact
 - Email: director@ysigen.com
 - LinkedIn: https://www.linkedin.com/company/110142354/admin/dashboard/
-- https://github.com/YSiGEN
+- Github: https://github.com/YSiGEN
 - 
